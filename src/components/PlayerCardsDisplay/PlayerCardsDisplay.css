@@ -1,0 +1,30 @@
+.players-cards-text {
+    font-size: 20px;
+    margin-top: 40px;
+  }
+  
+  .players-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .players-table th, .players-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .players-table th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .winner-row {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .winner-row td {
+    font-weight: bold;
+  }
+  
