@@ -1,0 +1,21 @@
+.winner-text {
+    color: #28a745;
+  }
+  
+  .winner-player {
+    font-weight: bold;
+    font-size: 20px;
+    color: #28a745;
+  }
+  
+  .winning-cards-text {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .winning-cards-list {
+    list-style: none;
+    font-size: 20px;
+    padding: 0;
+  }
+  
